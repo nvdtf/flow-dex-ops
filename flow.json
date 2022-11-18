@@ -1,0 +1,19 @@
+{
+	"contracts": {
+		"FusdUsdtSwapPair": {
+			"aliases": {
+				"mainnet" : "87f3f233f34b0733"
+			}
+		},
+        "UsdcUsdtSwapPair": {
+			"aliases": {
+				"mainnet" : "9c6f94adf47904b5"
+			}
+		}
+	},
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	}
+}
